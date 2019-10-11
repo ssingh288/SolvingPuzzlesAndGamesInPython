@@ -1,2 +1,2 @@
 # SolvingPuzzlesInPython
-6 different kind of puzzles solved using python
+6 different kind of puzzles and games solved using python
